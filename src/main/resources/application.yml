@@ -1,0 +1,10 @@
+
+
+study:
+  kafka:
+    bootstrap: my-kafka
+    port: 9092
+    topic: test
+
+server:
+  port: 8090
